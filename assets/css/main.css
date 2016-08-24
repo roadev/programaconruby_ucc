@@ -847,3 +847,7 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+.strong {
+	font-weight: bold;
+	font-size: 1.2em;
+}
